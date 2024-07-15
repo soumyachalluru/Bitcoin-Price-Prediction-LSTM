@@ -14,3 +14,4 @@
 * flask
 * tensorflow==2.16.1
 * numpy, pandas, matplotlib, sklearn etc.
+Refer requirements.txt for all libraries and their exact versions.
