@@ -1,4 +1,4 @@
-# BitcoinPricePrediction
+# Bitcoin Price Prediction
 
 ## Implementation details
 * Utilized Multivariate LSTM to predict bitcoin prices.
